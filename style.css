@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    background-color: bisque
+    
+}
+
+header{
+    position: relative;
+    padding-left: 100px;
+}
+
+nav{
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+.lists{
+    display: flex;
+    color: chocolate;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list{
+    color:aquamarine;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.img{
+    width: 450px;
+}
+
+.topp{
+    display:flex;
+}
+
+.action{
+    display: flex;
+}
+
+.intro{
+    display: flex;
+}
+
+.imgs{
+    width: 300px
+}
+
+.actions{
+    display: flex
+}
