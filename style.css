@@ -6,7 +6,6 @@ body{
 
 header{
     position: relative;
-    padding-left: 100px;
 }
 
 nav{
@@ -51,4 +50,20 @@ nav{
 
 .actions{
     display: flex
+}
+
+.foot{
+    margin-top: 200px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: darksalmon;
+}
+
+.anu{
+    padding-left: 125px;
+}
+
+.dick{
+    padding-left: 125px;
 }
